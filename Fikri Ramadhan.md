@@ -130,10 +130,12 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-
+https://github.com/ty4z2008/Qix
+pada projek ini Menjelaskan beberapa fokus di bidang informatika yang diantaranya ada Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、dan Golang
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+https://github.com/FikriRmdhn
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
