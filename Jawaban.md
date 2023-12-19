@@ -20,6 +20,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+![Screenshot (40)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/02db1638-3624-4c7d-b0dc-3699bd20e446)
+
 
 Referensi [1](https://scratch.mit.edu/)
 
@@ -91,6 +93,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
+
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
@@ -120,6 +123,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+![WhatsApp Image 2023-12-18 at 22 12 16](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/aa51a0ce-33aa-469c-8536-8c9c25fb9dff)
+
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
@@ -138,5 +143,10 @@ pada projek ini Menjelaskan beberapa fokus di bidang informatika yang diantarany
 https://github.com/FikriRmdhn
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+![WhatsApp Image 2023-12-18 at 22 12 00](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/ac2f2439-daae-4c30-b672-fb1834ca31ca)
+
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+- Pada buku Pragmatic Programmers karya David Thomas dan Andrew Hunt, ada sebuah cerita yang berjudul "The Stone Soup"
+- The three soldiers returning home from war were hungry. When they saw the village ahead their spirits lifted—they were sure the villagers would give them a meal. But when they got there, they found the doors locked and the windows closed. After many years of war, the villagers were short of food, and hoarded what they had. Undeterred, the soldiers boiled a pot of water and carefully placed three stones into it. The amazed villagers came out to watch. “This is stone soup,” the soldiers explained. “Is that all you put in it?” asked the villagers. “Absolutely—although some say it tastes even better with a few carrots…” A villager ran of , returning in no time with a basket of carrots from his hoard. A couple of minutes later, the villagers again asked “Is that it?” “Well,” said the soldiers, “a couple of potatoes give it body.” Of ran another villager. Over the next hour, the soldiers listed more ingredients that would enhance the soup: beef, leeks, salt, and herbs. Each time a dif erent villager would run of to raid their personal stores. Eventually they had produced a large pot of steaming soup. The soldiers removed the stones, and they sat down with the entire village to enjoy the first square meal any of them had eaten in months.
+- Ada beberapa moral dalam cerita batu sup. Para penduduk desa diperdaya oleh para tentara, yang menggunakan rasa ingin tahu penduduk desa untuk mendapatkan makanan dari mereka. Tetapi yang lebih penting, para tentara bertindak sebagai seorang katalis, menyatukan desa sehingga mereka dapat bersama-sama menghasilkan sesuatu yang tidak dapat mereka lakukan sendiri—hasil sinergis. Pada akhirnya, semua orang dapat menikmati hidangan bersama-sama. Kita mungkin berada dalam situasi di mana kita tahu persis apa yang perlu dilakukan dan bagaimana melakukannya. Semua sistem muncul di depan mata kita—kita tahu itu benar. Tetapi kalau kita minta izin untuk menangani semuanya, kita akan dihadapkan pada penundaan dan pandangan kosong. Orang-orang akan membentuk komite, dan urusan anggaran akan memakan waktu lama. Semua orang akan menjaga sumber daya mereka sendiri. Terkadang ini disebut sebagai "kelelahan awal." Saatnya untuk mengeluarkan batu-batu. Tentukan apa yang bisa kita minta dengan wajar. Kembangkan dengan baik. Begitu kita mendapatkannya, tunjukkan kepada orang lain, dan biarkan mereka terkesan. Lalu katakan, "tentu, akan lebih bagus jika kita menambahkan..." Buat seolah-olah itu tidak terlalu penting. Duduklah dan tunggu mereka mulai meminta kita untuk menambahkan fitur yang sebenarnya kita inginkan. Orang-orang lebih mudah bergabung ketika mereka melihat keberhasilan yang sedang berlangsung. Tunjukkan kepada mereka gambaran masa depan, dan kita akan membuat mereka bersatu untuk mendukungnya.
