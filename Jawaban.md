@@ -3,17 +3,64 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
+Computational thinking, atau pemikiran komputasional, adalah cara berpikir untuk menyelesaikan masalah. Caranya simpel, kita pecah masalah jadi beberapa bagian atau langkah yang gampang diatasi. Ini bukan cuma untuk komputer, tapi juga buat manusia atau sistem lainnya.
+
+- Jadi, ada empat tahap penting dalam computational thinking:
+
+  - Dekomposisi (Pecah Masalah):
+Pecahin masalah yang rumit jadi potongan-potongan kecil. Jadi, kita bisa atasi satu persatu.
+
+  - Pengenalan Pola:
+Cari pola atau kesamaan dalam masalah. Ini bantu banget buat temuin jalan keluar.
+
+  - Abstraksi:
+Lihat masalahnya secara umum, buat kesimpulan, dan pilih info yang penting. Biar nggak bingung sama yang nggak relevan.
+
+  - Algoritma:
+Buat langkah-langkah pintar buat selesaikan masalah. Kayak bikin resep masak, tapi buat ngepecah masalah.
+
+- Penerapan computational thinking dapat dilakukan dengan langkah-langkah berikut:
+
+  - Perincian Masalah:
+
+    - Analisis masalah secara mendalam.
+    - Penjabaran masalah dengan jelas dan tepat.
+    - Menetapkan kriteria solusi yang diinginkan.
+    - Memecah masalah kompleks menjadi masalah-masalah kecil yang lebih mudah dikelola.
+    - Pembuatan hipotesis mengenai kemungkinan solusi.
+    - 
+  - Memikirkan Algoritma yang Sistematis:
+
+    - Mencari algoritma atau langkah-langkah sistematis berdasarkan data yang ada.
+    - Menentukan langkah-langkah yang sesuai untuk memecahkan masalah.
+    - Mengidentifikasi cara yang efektif dan efisien untuk mencapai solusi.
+    - 
+  - Implementasi, Solusi, dan Evaluasi:
+
+    - Implementasikan solusi berdasarkan algoritma yang telah dirancang.
+    - Evaluasi solusi secara sistematis untuk menguji kebenaran hipotesis.
+    - Modifikasi dan evaluasi ulang hipotesis jika diperlukan.
+    - Melakukan evaluasi terhadap hasil implementasi.
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+Mesin komputasi itu seperti perangkat elektronik yang bisa kita temui sehari-hari, seperti komputer, laptop, ponsel, dan alat elektronik lainnya. Mesin ini punya beberapa bagian penting, seperti CPU yang berperan sebagai otaknya. CPU ini yang menjalankan semua perintah dalam sebuah program, contohnya saat kita main game dan menggerakkan karakter.
+
+Selain CPU, ada juga GPU. GPU bertugas menghasilkan gambar atau visual dalam game. Semua visual dalam game sebenarnya hasil dari program bernama repaint, yang artinya melukis ulang. Jadi, GPU terus-menerus melukis gambar untuk menciptakan visual dalam game.
+
+Lalu, ada RAM. RAM ini menyimpan perintah sementara, karena dalam game ada banyak perintah sebelum CPU menjalankannya, seperti saat kita tekan tombol untuk membuat karakter melompat. Ada sedikit jeda sebelum karakter melompat, tapi kita mungkin nggak sadar karena itu terjadi sangat cepat.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+![Screenshot (47)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/34149d0c-736a-42d0-b188-5b8f814c9b87)
+
 
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+![Screenshot (49)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/11433641-a7b6-4723-9c2a-57b0b11e0d63)
+
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+![Screenshot (48)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/99b18ab9-c756-4ce5-97f7-d2851c18793d)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
@@ -22,16 +69,18 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 ![Screenshot (40)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/02db1638-3624-4c7d-b0dc-3699bd20e446)
 
-
-Referensi [1](https://scratch.mit.edu/)
-
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+![Screenshot (51)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/63d89275-f20b-4019-8f09-7fc087069e09)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+![Screenshot (50)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/039713b6-4bb4-45ed-a193-a6434a1a2f14)
+ program sederhana untuk menghitung luas bangun datar (persegi, persegi panjang, dan lingkaran) berdasarkan pilihan pengguna menggunakan scanner.
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+![Screenshot (52)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/e551be54-3734-425f-a000-c841dfc16dd5)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+https://youtu.be/h_jT6PY9-NQ
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
@@ -57,15 +106,12 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+![Screenshot (53)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/b53aa786-8416-49ab-9334-20d6c26eb7b6)
+![Screenshot (54)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/40642fa6-824d-4118-a701-916da7900977)
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
@@ -73,6 +119,7 @@ Referensi []
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
@@ -109,12 +156,25 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![WhatsApp Image 2023-12-27 at 02 32 05](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/16cd4c6e-e6c4-4ca9-a8e9-78684082135d)
+
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+- Jurnal (Journal):
+Sebuah jurnal adalah publikasi akademis yang berisi artikel-artikel penelitian ilmiah. Jurnal ini dapat ditemukan dalam bentuk cetak maupun daring. Artikel-artikel dalam jurnal biasanya ditinjau oleh pakar sebelum diterbitkan, melalui proses yang disebut dengan "peer review," untuk memastikan kualitas dan validitas ilmiahnya. Jurnal dapat berfokus pada berbagai bidang ilmu, dan setiap artikel di dalamnya menyajikan hasil penelitian, analisis, dan temuan penelitian.
+
+- Conference (Konferensi):
+Konferensi adalah pertemuan akademis di mana peneliti, akademisi, praktisi, dan pemangku kepentingan lainnya berkumpul untuk berbagi dan mendiskusikan hasil penelitian terkini, ide-ide baru, dan perkembangan dalam suatu bidang ilmu tertentu. Biasanya, konferensi melibatkan presentasi makalah oleh para peneliti, diskusi panel, dan forum untuk bertukar informasi. Konferensi dapat bersifat lokal, nasional, atau internasional, tergantung pada jangkauan pesertanya.
+
+- Artikel (Article):
+Artikel adalah suatu tulisan ilmiah yang mencakup informasi tentang suatu topik tertentu. Artikel dapat ditemukan di berbagai media, termasuk jurnal, majalah, surat kabar, atau situs web. Artikel ilmiah biasanya memiliki struktur tertentu, seperti abstrak, pendahuluan, metodologi, hasil, pembahasan, dan daftar pustaka. Artikel dapat mencakup berbagai jenis, termasuk artikel penelitian, ulasan literatur, artikel opini, dan sebagainya.
+
+- Grade Jurnal (Journal Ranking):
+Grading jurnal merupakan penilaian terhadap tingkat kualitas dan dampak suatu jurnal ilmiah. Beberapa faktor yang digunakan untuk menilai sebuah jurnal meliputi faktor dampak (impact factor), reputasi, tingkat penerimaan, dan metrik lainnya. Jurnal dengan impact factor yang tinggi cenderung dianggap memiliki pengaruh yang lebih besar dalam komunitas ilmiah. Beberapa indeks terkenal yang memberikan peringkat jurnal meliputi Journal Citation Reports (JCR) dan Scimago Journal Rank (SJR).
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
