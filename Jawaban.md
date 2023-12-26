@@ -7,8 +7,8 @@ Computational thinking, atau pemikiran komputasional, adalah cara berpikir untuk
 
 - Jadi, ada empat tahap penting dalam computational thinking:
 
-  - Dekomposisi (Pecah Masalah):
-Pecahin masalah yang rumit jadi potongan-potongan kecil. Jadi, kita bisa atasi satu persatu.
+  - Dekomposisi :
+Bagi masalah yang rumit jadi potongan-potongan kecil. Jadi, kita bisa atasi satu persatu.
 
   - Pengenalan Pola:
 Cari pola atau kesamaan dalam masalah. Ini bantu banget buat temuin jalan keluar.
@@ -124,26 +124,96 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+![Screenshot (63)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/ceef76e6-549a-491f-a65f-08f40f63f1fd)
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
+AWS menawarkan berbagai macam layanan untuk setiap kegunaan. Dimulai dengan elemen dasar, seperti komputasi, penyimpanan, dan keamanan jaringan, hingga solusi kompleks seperti blockchain, machine learning, atau artificial intelligence (kecerdasan buatan), serta platform pengembangan robot.
+
+Bahkan termasuk juga layanan yang sangat terspesialisasi, seperti sistem manajemen produksi video dan satelit orbital yang dapat Anda sewa setiap menit.
+
+Namun semua hal tersebut nampaknya terlalu kompleks dan perlu lebih banyak waktu untuk kita bahas di kelas dasar seperti ini. Jadi, mari kita sederhanakan pembahasan kita dengan memulai dari model komputasi cloud dasar.
+
+Tahukah Anda? Hampir semua model komputasi modern adalah berbentuk client-server.
+
+20210327171832f42e6e357ebace3e1a19267c10a6bba7.png
+
+Dalam dunia komputasi, client dapat berupa web browser atau aplikasi yang dapat membuat permintaan ke server. Sebuah server dapat berupa layanan seperti Amazon Elastic Compute Cloud (Amazon EC2).
+
+Contoh interaksinya adalah client membuat permintaan untuk mengakses sebuah artikel berita, skor dalam game online, atau video lucu lalu server mengevaluasi detail permintaan tersebut dan memenuhinya dengan mengembalikan informasi ke client.
+
+Oke, mungkin pembahasan di atas terlalu teknis ya. Bagaimana kalau kita membuat suatu perumpamaan yang dapat digunakan secara berkelanjutan di setiap modulnya? Tapi perumpamaan seperti apa ya yang dapat mencakup setiap pembahasan di kelas ini?
+
+Bagaimana dengan skenario kedai kopi? Sepertinya menarik. Kedai kopi ini akan memberi kita beberapa metafora dunia nyata untuk membantu Anda memahami mengapa AWS dapat mengubah cara pengoperasian IT di seluruh dunia.
+
+Kita mulai dari sebuah pertanyaan dasar. Apa saja elemen yang ada di sebuah kedai kopi? Kasir dan pelanggan, tentu.
+
+20210327171900e59eabc83109d5738c729956eadd2cfb.png
+
+Dalam model client-server. Kasir berperan sebagai server sedangkan pelanggan adalah client. Di kedai kopi pelanggan membuat suatu permintaan berupa segelas kopi. Namun di dunia komputasi, permintaan dapat berbentuk apa pun: analisis pola hujan di negara Afrika Selatan, rontgen terbaru dari lutut Anda, atau mungkin video anak kucing yang menggemaskan.
+
+Apa pun bisnisnya, pada dasarnya client membuat suatu permintaan--tentu dengan telah memiliki izin akses--kemudian server menanggapi permintaan tersebut.
+
+Kembali ke kedai kopi. Kasir adalah server-nya. Di AWS, kasir tersebut diberi nama Amazon Elastic Compute Cloud (EC2), sebuah server virtual dan kita akan memanggilnya instance.
+
+Mari kita lihat proses transaksi yang terjadi antara kasir dan pelanggan ini dari sudut pandang arsitektural.
+
+Pelanggan (client) membuat permintaan ke kasir (server).
+Kasir memvalidasi bahwa permintaan tersebut sah, dalam hal ini apakah pelanggan telah membayar atau belum.
+Jika ya, maka kasir akan ke belakang untuk membuat kopi sesuai permintaan.
+Setelah selesai, kasir tersebut akan kembali kepada pelanggan dengan membawa kopinya, dalam hal ini adalah kapucino dengan ekstra karamel. Yummy!
+Di dunia nyata, aplikasi bisa lebih rumit dari sekadar satu transaksi dengan satu server, bahkan bisa menjadi sangat kompleks ketika diterapkan ke dalam solusi bisnis yang mapan.
+
+Nah, untuk menghindari kompleksitas ini, mari kita mulai dengan yang simpel, seperti konsep utama di AWS, yakni pay for what you use (bayar untuk apa yang Anda gunakan).
+
+Prinsip ini sangat tepat dan masuk akal dengan skenario kedai kopi kita. Pegawai hanya dibayar saat mereka bekerja di toko. Jika mereka tidak bekerja, maka tidak ada gaji. Pemilik kedai dapat memutuskan berapa banyak pegawai yang dia butuhkan lalu memberikan mereka upah sesuai jam kerja.
+
+Sebagai contoh, kedai kopi tersebut akan merilis minuman baru, Robusta. Delicioso!
+
+Untuk mengantisipasi peluncuran ini, Anda bisa mempekerjakan selusin pegawai sepanjang hari guna berjaga-jaga jika pelanggan membludak berdatangan secara tak terduga di hari spesial tersebut. Hanya saja, pelanggan tidak selalu akan membludak setiap saat, bukan?
+
+Tapi tahukah Anda? Inilah yang sebenarnya terjadi di data center on-premise (lokal). Anda tidak bisa hanya sekadar menjentikkan jari lalu voila! Kapasitas Anda berlipat ganda dengan sendirinya. Nope. Banyak proses administratif yang perlu Anda lakukan dan berujung pada mahalnya biaya yang perlu Anda keluarkan.
+
+Dengan Amazon Web Service, Anda tidak perlu membayar uang muka untuk apa pun dan tidak perlu khawatir tentang kendala kapasitas.
+
+Oke. Sekarang kita menemukan istilah baru, data center on-premise. Apa itu? Mari kita kupas.
+
+Pertama, data center. Berdasarkan website Cisco--salah satu perusahaan telekomunikasi global--data center adalah fasilitas yang digunakan perusahaan untuk menempatkan aplikasi dan data penting mereka. Komponen utama dari data center adalah router, switch, firewall, sistem penyimpanan, dan juga server [1].
+
+Sementara on-premise mengacu pada penyimpanan dan pemeliharaan data di server lokal atau pribadi.
+
+Lanjut ke prinsip berikutnya, yaitu pay for what you need (bayar untuk apa yang Anda butuhkan). Misal ketika Anda membutuhkan sebuah instance atau mungkin barista, cukup dengan klik sebuah tombol ajaib segera mereka pun seketika tersedia untuk Anda. Dan ketika tak membutuhkannya, klik tombol lagi kemudian mereka akan pergi sesaat kemudian sehingga Anda tak perlu membayarnya lagi.
+
+Prinsip ini menjadi nilai utama di AWS. Itulah alasan sebenarnya kelas ini dihadirkan, yakni untuk membantu Anda memahami bagaimana AWS dibangun untuk membantu Anda menjalankan bisnis dengan lebih baik.
+
+Tetaplah pahami dan ikuti kelas ini dengan saksama karena kita akan segera menyelami konsep-konsep tersebut lebih dalam serta membantu Anda melangkah menuju Cloud Practitioner. Semangat!
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+![image](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/98492d96-6bb0-4d93-9f36-c473514a6f04)
+https://wordpress.com/home/danzfikri20.wordpress.com
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+![Screenshot (56)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/b53dd38b-f241-4de2-bc26-54c5fbe0ab8f)
+
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+![Screenshot (60)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/03740eb0-fbbf-4cc9-b535-4d2608a04dec)
+
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+![Screenshot (68)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/b006dd3b-7330-42d8-916e-75d0d9e78495)
+
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+![Screenshot (62)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/b0ee2292-7e31-4631-b478-38345355a79e)
+![Screenshot (61)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/62376b05-259a-481c-973e-ee340d156ff1)
+
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
@@ -152,12 +222,13 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+![Screenshot (58)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/ccfc16c6-d982-4bee-8bff-9f7051619585)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+![Screenshot (57)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/cec59dd8-8e17-435b-ad66-5cb8c919baad)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 ![WhatsApp Image 2023-12-27 at 02 32 05](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/16cd4c6e-e6c4-4ca9-a8e9-78684082135d)
-
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
@@ -177,27 +248,83 @@ Artikel adalah suatu tulisan ilmiah yang mencakup informasi tentang suatu topik 
 Grading jurnal merupakan penilaian terhadap tingkat kualitas dan dampak suatu jurnal ilmiah. Beberapa faktor yang digunakan untuk menilai sebuah jurnal meliputi faktor dampak (impact factor), reputasi, tingkat penerimaan, dan metrik lainnya. Jurnal dengan impact factor yang tinggi cenderung dianggap memiliki pengaruh yang lebih besar dalam komunitas ilmiah. Beberapa indeks terkenal yang memberikan peringkat jurnal meliputi Journal Citation Reports (JCR) dan Scimago Journal Rank (SJR).
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+https://www.sciencedirect.com/science/article/abs/pii/S0747563223004764
+![Screenshot (65)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/183d213e-d796-47dc-8b34-58dda4fa1432)
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+- Pengembang Perangkat Lunak (Software Developer):
+Pengembang perangkat lunak merancang, mengembangkan, dan menguji perangkat lunak. Mereka dapat bekerja di berbagai sektor, seperti pengembangan aplikasi web, mobile, perangkat lunak bisnis, dan game.
+
+- Administrator Sistem (System Administrator):
+Administrator sistem bertanggung jawab atas pengelolaan, pemeliharaan, dan keamanan sistem komputer dan jaringan dalam suatu organisasi.
+
+- Analisis Data (Data Analyst):
+Analisis data memeriksa dan menganalisis data untuk mendukung pengambilan keputusan bisnis. Mereka menggunakan keterampilan analisis statistik dan alat visualisasi data.
+
+- Ilmuwan Data (Data Scientist):
+Ilmuwan data menggunakan metode ilmiah, statistik, dan pemrograman untuk mengeksplorasi dan menganalisis data besar. Mereka menciptakan model prediktif dan memberikan wawasan bisnis.
+
+- Arsitek Sistem (System Architect):
+Arsitek sistem merancang dan mengelola arsitektur teknologi informasi dalam suatu organisasi, memastikan keselarasan dengan tujuan bisnis.
+
+- Pengembang Web (Web Developer):
+Pengembang web fokus pada pengembangan situs web dan aplikasi web. Mereka dapat mengkhususkan diri dalam pengembangan front-end (tampilan pengguna) atau back-end (logika server).
+
+- Spesialis Keamanan Informasi (Information Security Specialist):
+Spesialis keamanan informasi bertanggung jawab atas perlindungan sistem dan data organisasi dari ancaman keamanan, termasuk serangan siber.
+
+- Ahli Jaringan (Network Engineer):
+Ahli jaringan merancang, mengimplementasikan, dan memelihara infrastruktur jaringan organisasi, termasuk perangkat keras dan perangkat lunak jaringan.
+
+- Administrator Basis Data (Database Administrator):
+Administrator basis data mengelola dan menjaga integritas basis data organisasi, memastikan keberlanjutan operasional dan akses data yang efisien.
+
+- Desainer Pengalaman Pengguna (UX Designer):
+Desainer pengalaman pengguna fokus pada menciptakan antarmuka pengguna yang intuitif dan memuaskan untuk produk perangkat lunak.
+
+- Pengembang Game (Game Developer):
+Pengembang game merancang, mengembangkan, dan menguji permainan video. Mereka dapat bekerja di berbagai aspek, termasuk pengembangan grafis, kecerdasan buatan, dan gameplay.
+
+- Pengembang Aplikasi Mobile (Mobile App Developer):
+Pengembang aplikasi mobile membuat aplikasi untuk perangkat seluler seperti smartphone dan tablet.
+
+- Pakar Kecerdasan Buatan (Artificial Intelligence Expert):
+Pakar kecerdasan buatan terlibat dalam pengembangan sistem dan aplikasi yang menggunakan teknologi kecerdasan buatan, seperti pembelajaran mesin dan pengolahan bahasa alami.
+
+- Pengembang DevOps:
+Pengembang DevOps bekerja untuk memfasilitasi kerjasama antara pengembang perangkat lunak dan tim operasi, mempercepat siklus pengembangan dan implementasi.
+
+- Konsultan TI (IT Consultant):
+Konsultan TI memberikan saran dan solusi teknologi informasi kepada organisasi untuk meningkatkan efisiensi dan produktivitas.
+
+### Profesi yang saya minati : Game Developer, UI/UX Designer, IT Consultant, Data Scientist, dan DevOps
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 ![WhatsApp Image 2023-12-18 at 22 12 16](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/aa51a0ce-33aa-469c-8536-8c9c25fb9dff)
 
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+![WhatsApp Image 2023-12-27 at 02 56 53](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/c01cfcde-cadd-4bbc-b444-acc0a2eea753)
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+![WhatsApp Image 2023-12-27 at 03 20 56](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/dca25fde-2fbc-4522-89ad-52d1d24aa8f6)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+![Screenshot (64)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/5ae79da5-bb8c-4e0b-9cba-6b691fc4cf2b)
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+https://roadmap.sh/game-developer
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 https://github.com/ty4z2008/Qix
 pada projek ini Menjelaskan beberapa fokus di bidang informatika yang diantaranya ada Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、dan Golang
+
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+![WhatsApp Image 2023-12-27 at 03 20 28](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/1553fd33-7f67-4935-805d-2121c9d49c13)
+![WhatsApp Image 2023-12-27 at 03 20 28 (1)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/78c19467-4f9a-4f4f-9fef-ead1e70822ea)
+
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://github.com/FikriRmdhn
