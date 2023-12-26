@@ -82,14 +82,10 @@ Lalu, ada RAM. RAM ini menyimpan perintah sementara, karena dalam game ada banya
 https://youtu.be/h_jT6PY9-NQ
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
+![image](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/ad7acf5f-9bbf-4e67-827f-2b5417b712ab)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+![image](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/9d46a075-c9a9-43a6-ac92-028e6343e10d)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 ![Screenshot (70)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/2bc1e82d-bc98-4bce-90a5-417fb939dd17)
