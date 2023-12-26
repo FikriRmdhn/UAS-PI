@@ -331,7 +331,7 @@ pada projek ini Menjelaskan beberapa fokus di bidang informatika yang diantarany
 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-https://github.com/FikriRmdhn
+[FikriRmdhn.github.io](https://fikrirmdhn.github.io/)
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 ![WhatsApp Image 2023-12-18 at 22 12 00](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/ac2f2439-daae-4c30-b672-fb1834ca31ca)
