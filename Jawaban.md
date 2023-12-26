@@ -59,13 +59,12 @@ Lalu, ada RAM. RAM ini menyimpan perintah sementara, karena dalam game ada banya
 ![Screenshot (49)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/11433641-a7b6-4723-9c2a-57b0b11e0d63)
 
 
+
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 ![Screenshot (48)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/99b18ab9-c756-4ce5-97f7-d2851c18793d)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
-
+![Masak Nasi](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/c0d40c76-1601-4ce5-b253-68a00b3baed1)
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 ![Screenshot (40)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/02db1638-3624-4c7d-b0dc-3699bd20e446)
 
@@ -93,6 +92,8 @@ Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+![Screenshot (70)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/2bc1e82d-bc98-4bce-90a5-417fb939dd17)
+
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
@@ -114,6 +115,8 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+![Screenshot (71)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/3220eb16-7c56-49e8-88d3-360598626617)
+
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -203,7 +206,7 @@ https://wordpress.com/home/danzfikri20.wordpress.com
 ![Screenshot (60)](https://github.com/FikriRmdhn/UAS-PI/assets/144408745/03740eb0-fbbf-4cc9-b535-4d2608a04dec)
 
 
-## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+  ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
@@ -216,6 +219,7 @@ https://wordpress.com/home/danzfikri20.wordpress.com
 
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
